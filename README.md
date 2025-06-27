@@ -13,7 +13,7 @@ While this project is simple, it helped me develop a foundational understanding 
 
 ## Preview
 
-![Profile Card Screenshot](images/finished_product.png)
+![Profile Card Screenshot](images/finished_product)
 
 ---
 
