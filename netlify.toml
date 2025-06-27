@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/profile-card/*"
+  to = "/profile-card/:splat"
+  status = 200
